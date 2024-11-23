@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amithkumar9292
-- 👀 I’m interested in development
+- 👀 I’m interested in development and I love coding
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Amithkumar9292/Amithkumar9292 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Amithkumar9292/Amithkumar9292 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub prokfile.
 You can click the Preview link to take a look at your changes.
 --->
